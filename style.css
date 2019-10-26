@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(10, 10, 10);
+
+}
+h1{
+    color: rgb(179, 179, 179);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 1%;
+}
+.box{   
+    position: absolute;
+    margin: 0%;
+    left: 5%;
+    top: 15%;
+    width: 30%;
+    height: 82%;
+    background-image: url(Camera.png);
+    background-size: 95% 95%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
